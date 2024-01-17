@@ -1,0 +1,38 @@
+{"products": [
+  {
+    "id": 1,
+    "description": "A high-performance laptop with cutting-edge features.",
+    "title": "Super Laptop X",
+    "price": 1299.99,
+    "image": "images/product.webp"
+  },
+  {
+    "id": 2,
+    "description": "Premium noise-canceling headphones for an immersive audio experience.",
+    "title": "SoundMaster Pro",
+    "price": 299.99,
+    "image": "images/spadri.png"
+  },
+  {
+    "id": 3,
+    "description": "Capture stunning moments with this professional-grade camera.",
+    "title": "PixelPerfect Camera",
+    "price": 899.99,
+    "image": "images/spadri3.jpg"
+  },
+  {
+    "id": 4,
+    "description": "Sleek and stylish smartwatch with advanced health tracking features.",
+    "title": "HealthTech Smartwatch",
+    "price": 149.99,
+    "image": "images/fleure.jpg"
+  },
+  {
+    "id": 5,
+    "description": "Ultra HD 4K TV for an unparalleled viewing experience.",
+    "title": "CrystalClear TV",
+    "price": 1799.99,
+    "image": "images/setup.jpg"
+  }
+]
+}
